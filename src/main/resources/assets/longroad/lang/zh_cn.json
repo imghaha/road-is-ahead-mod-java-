@@ -1,0 +1,13 @@
+{
+  "generator.longroad.flat_grass_preset": "路在前方",
+  "block.longroad.railing": "电线杆",
+  "block.longroad.railing_top": "电线杆顶",
+  "block.longroad.wire": "电线",
+  "gui.longroad.world_preset_button": "长路/更好的超平坦设置",
+  "gui.longroad.world_preset.title": "长路/更好的超平坦设置",
+  "gui.longroad.world_preset.biome_width": "一个群系的宽度",
+  "gui.longroad.world_preset.variation_range": "宽度自变量",
+  "gui.longroad.world_preset.description": "实际群系宽度会在 (宽度-范围) 到 (宽度+范围) 之间随机",
+  "gui.done": "完成",
+  "gui.cancel": "取消"
+}

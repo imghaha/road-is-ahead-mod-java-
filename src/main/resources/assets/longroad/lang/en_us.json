@@ -1,0 +1,13 @@
+{
+  "generator.longroad.flat_grass_preset": "road is ahead",
+  "block.longroad.railing": "railing",
+  "block.longroad.railing_top": "railing top",
+  "block.longroad.wire": "wire",
+  "gui.longroad.world_preset_button": "Longroad/better super Settings",
+  "gui.longroad.world_preset.title": "Long road/better super flat setting",
+  "gui.longroad.world_preset.biome_width": "The width of a biome",
+  "gui.longroad.world_preset.variation_range": "Formation independent variable",
+  "gui.longroad.world_preset.description": "The actual biome width will be randomly generated between (width - range) and (width + range)",
+  "gui.done": "Done",
+  "gui.cancel": "Cancel"
+}

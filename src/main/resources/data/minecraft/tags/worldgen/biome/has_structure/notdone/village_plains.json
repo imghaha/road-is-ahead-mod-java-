@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "longroad:plains",
+    "longroad:desert",
+    "longroad:snowy_plains",
+    "longroad:snowy_forest",
+    "longroad:forest",
+    "longroad:flower_forest",
+    "longroad:cherry_grove"
+  ]
+}

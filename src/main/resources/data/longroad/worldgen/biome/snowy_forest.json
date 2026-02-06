@@ -1,0 +1,83 @@
+{
+  "temperature": -0.1,
+  "downfall": 0.5,
+  "has_precipitation": true,
+  "effects": {
+    "sky_color": 7907327,
+    "fog_color": 12638463,
+    "water_color": 4159204,
+    "water_fog_color": 329011,
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2.0
+    }
+  },
+  "spawners": {
+    "monster": [],
+    "creature": [
+      {
+        "type": "minecraft:sheep",
+        "weight": 12,
+        "minCount": 0,
+        "maxCount": 1
+      },
+      {
+        "type": "minecraft:pig",
+        "weight": 10,
+        "minCount": 0,
+        "maxCount": 1
+      },
+      {
+        "type": "minecraft:chicken",
+        "weight": 10,
+        "minCount": 0,
+        "maxCount": 1
+      },
+      {
+        "type": "minecraft:cow",
+        "weight": 8,
+        "minCount": 0,
+        "maxCount": 1
+      }
+    ],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": []
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "minecraft:spring_water"
+    ],
+    [
+      "minecraft:glow_lichen",
+      "minecraft:patch_large_fern",
+      "minecraft:trees_taiga",
+      "minecraft:flower_default",
+      "minecraft:patch_grass_taiga_2",
+      "minecraft:brown_mushroom_taiga",
+      "minecraft:red_mushroom_taiga",
+      "minecraft:patch_sugar_cane",
+      "minecraft:patch_berry_rare"
+    ],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ]
+}

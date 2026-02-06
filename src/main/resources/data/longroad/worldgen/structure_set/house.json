@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 14357620,
+    "separation": 51,
+    "spacing": 52
+  },
+  "structures": [
+    {
+      "structure": "longroad:house_1_complete",
+      "weight": 1
+    }
+  ]
+}

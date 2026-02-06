@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "waterlogged=false": {
+      "model": "longroad:block/railing"
+    },
+    "waterlogged=true": {
+      "model": "longroad:block/railing"
+    }
+  }
+}

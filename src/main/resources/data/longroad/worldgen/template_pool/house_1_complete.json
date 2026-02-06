@@ -1,0 +1,15 @@
+{
+  "name": "longroad:house_1_complete",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "longroad:house_1_complete",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}
