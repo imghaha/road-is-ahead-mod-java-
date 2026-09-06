@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.watire.longroad.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "longroad.refmap.json",
+  "mixins": [
+    "ChunkGeneratorMixin",
+    "MixinTreeFeature",
+    "MixinBambooFeature",
+    "MixinAbstractHugeMushroomFeature",
+    "MixinLakeFeature",
+    "SnowAndFreezeFeatureMixin"
+  ],
+  "client": [],
+  "server": []
+}

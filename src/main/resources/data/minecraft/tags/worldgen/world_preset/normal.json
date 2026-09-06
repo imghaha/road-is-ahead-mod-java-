@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:normal",
+    "minecraft:flat",
+    "longroad:flat_grass_preset",
+    "minecraft:large_biomes",
+    "minecraft:amplified"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "values": [
+    "longroad:plains",
+    "longroad:desert",
+    "longroad:snowy_plains",
+    "longroad:snowy_forest",
+    "longroad:forest",
+    "longroad:flower_forest",
+    "longroad:cherry_grove",
+    "minecraft:plains",
+    "minecraft:desert",
+    "flower_forest",
+    "forest",
+    "snowy_plains",
+    "windswept_hills",
+    "snowy_taiga",
+    "sunflower_plains",
+    "cherry_grove",
+    "bamboo_jungle",
+    "deep_dark",
+    "jungle"
+  ]
+}

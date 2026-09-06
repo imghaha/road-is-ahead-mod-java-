@@ -1,0 +1,15 @@
+{
+  "name": "longroad:storage_1_abandoned",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "longroad:storage_1/storage_1_abandoned",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

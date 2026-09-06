@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "longroad:block/wire",
+    "black": "longroad:block/wire"
+  },
+  "elements": [
+    {
+      "from": [0, 4, 0],
+      "to": [1, 5, 16],
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": "#black"},
+        "south": {"uv": [0, 0, 16, 16], "texture": "#black"},
+        "up": {"uv": [0, 0, 16, 16], "texture": "#black"},
+        "down": {"uv": [0, 0, 16, 16], "texture": "#black"},
+        "east": {"uv": [0, 0, 16, 16], "texture": "#black"},
+        "west": {"uv": [0, 0, 16, 16], "texture": "#black"}
+      }
+    },
+    {
+      "from": [15, 4, 0],
+      "to": [16, 5, 16],
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": "#black"},
+        "south": {"uv": [0, 0, 16, 16], "texture": "#black"},
+        "up": {"uv": [0, 0, 16, 16], "texture": "#black"},
+        "down": {"uv": [0, 0, 16, 16], "texture": "#black"},
+        "east": {"uv": [0, 0, 16, 16], "texture": "#black"},
+        "west": {"uv": [0, 0, 16, 16], "texture": "#black"}
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 14357620,
+    "separation": 35,
+    "spacing": 60
+  },
+  "structures": [
+    {
+      "structure": "longroad:storage_1_abandoned",
+      "weight": 1
+    }
+  ]
+}
